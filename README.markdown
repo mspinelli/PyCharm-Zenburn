@@ -1,4 +1,4 @@
-Intellij-Zenburn
+PyCharm-Zenburn
 ================
 
 ZenBurn color scheme for PyCharm 2018.2 is modified from the Zenburn theme for Intellij 13 (https://github.com/pedropenna/Intellij-Zenburn) which in turn is based on Emacs theme's colors (https://github.com/bbatsov/zenburn-emacs)
